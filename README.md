@@ -1,4 +1,4 @@
-# easychem-raspberry-p
+# easychem-raspberry-pi
 
 Literature:
 http://www.linux-user.de/Downloads/LUCE/2018/lu-ce_2018-08.pdf
